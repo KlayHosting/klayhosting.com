@@ -1,32 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.0899a849.chunk.css",
-    "main.js": "/static/js/main.3e59e3c9.chunk.js",
-    "main.js.map": "/static/js/main.3e59e3c9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fdc7f703.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fdc7f703.js.map",
+    "main.js": "/static/js/main.651c9f0c.chunk.js",
+    "main.js.map": "/static/js/main.651c9f0c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6d494db2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6d494db2.js.map",
     "static/css/2.081f420c.chunk.css": "/static/css/2.081f420c.chunk.css",
-    "static/js/2.7e2b253d.chunk.js": "/static/js/2.7e2b253d.chunk.js",
-    "static/js/2.7e2b253d.chunk.js.map": "/static/js/2.7e2b253d.chunk.js.map",
-    "static/js/3.d14aa57e.chunk.js": "/static/js/3.d14aa57e.chunk.js",
-    "static/js/3.d14aa57e.chunk.js.map": "/static/js/3.d14aa57e.chunk.js.map",
+    "static/js/2.d7b4a679.chunk.js": "/static/js/2.d7b4a679.chunk.js",
+    "static/js/2.d7b4a679.chunk.js.map": "/static/js/2.d7b4a679.chunk.js.map",
+    "static/js/3.c87ca4fe.chunk.js": "/static/js/3.c87ca4fe.chunk.js",
+    "static/js/3.c87ca4fe.chunk.js.map": "/static/js/3.c87ca4fe.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.081f420c.chunk.css.map": "/static/css/2.081f420c.chunk.css.map",
     "static/css/main.0899a849.chunk.css.map": "/static/css/main.0899a849.chunk.css.map",
-    "static/js/2.7e2b253d.chunk.js.LICENSE.txt": "/static/js/2.7e2b253d.chunk.js.LICENSE.txt",
+    "static/js/2.d7b4a679.chunk.js.LICENSE.txt": "/static/js/2.d7b4a679.chunk.js.LICENSE.txt",
     "static/media/alessio.580af6e6.png": "/static/media/alessio.580af6e6.png",
     "static/media/kevin.8976aaf7.png": "/static/media/kevin.8976aaf7.png",
-    "static/media/mikrotik.4749e2e9.png": "/static/media/mikrotik.4749e2e9.png",
     "static/media/servers.87d9782f.jpg": "/static/media/servers.87d9782f.jpg",
-    "static/media/stefan.a0f187c9.png": "/static/media/stefan.a0f187c9.png",
-    "static/media/thinkserver.5bc37a91.png": "/static/media/thinkserver.5bc37a91.png",
-    "static/media/watchguard.c698cd97.png": "/static/media/watchguard.c698cd97.png"
+    "static/media/stefan.a0f187c9.png": "/static/media/stefan.a0f187c9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdc7f703.js",
+    "static/js/runtime-main.6d494db2.js",
     "static/css/2.081f420c.chunk.css",
-    "static/js/2.7e2b253d.chunk.js",
+    "static/js/2.d7b4a679.chunk.js",
     "static/css/main.0899a849.chunk.css",
-    "static/js/main.3e59e3c9.chunk.js"
+    "static/js/main.651c9f0c.chunk.js"
   ]
 }
